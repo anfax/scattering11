@@ -1,0 +1,88 @@
+  Projectile_energy_finish is :   1.000000000000000     
+  Projectile_energy_start is  :   75.00000000000000     
+
+
+                    Ion-Atom-Wave
+                   ---------------
+
+
+
+          Ion-Atom-Wave calculates cross sections for the single ionization
+          of atomic and molecular hydrogen-like targets and helium-like targets
+          by both light and heavy ion impact.
+
+
+                    Input data used for this run :
+                   ------------------------------
+
+       The target is a helium atom
+       The CDW-EIS model was used.
+
+       double differential cross section evaluated for the following values :
+
+          Program started with the following electron energy (eV) :   0.20000000E+00
+          Program ended with the following electron energy (eV)   :   0.90000000E+02
+          The electron energy was incremented by                  :   0.20000000E+01
+          Energy of the incoming ion (keV)                        :   0.75000000E+02
+          Angle of electron emission (in radians)                 :   0.10000000E+00
+
+
+                    Numerical details
+                   -------------------
+
+          Tolerance used throughout the code :  0.22204460E-09
+          Tolerance used for the quadrature   :  0.10000000E-03
+
+
+                    PROGRAM OUTPUT
+                   ----------------
+
+       The first column contains the electron energy (eV) and the second
+       column contains the cross sections
+
+
+   0.2000000000000000       2.3394624948705482E-002*1e-20sqr.metres/eV/sr
+    2.200000000000000       3.0481267769151714E-002*1e-20sqr.metres/eV/sr
+    4.200000000000000       3.2186809295606460E-002*1e-20sqr.metres/eV/sr
+    6.200000000000000       3.2579413664121801E-002*1e-20sqr.metres/eV/sr
+    8.199999999999999       3.2480520852528200E-002*1e-20sqr.metres/eV/sr
+    10.20000000000000       3.2224303008163452E-002*1e-20sqr.metres/eV/sr
+    12.20000000000000       3.1975245277550073E-002*1e-20sqr.metres/eV/sr
+    14.20000000000000       3.1824782971607055E-002*1e-20sqr.metres/eV/sr
+    16.20000000000000       3.1830796483122169E-002*1e-20sqr.metres/eV/sr
+    18.20000000000000       3.2036672844994195E-002*1e-20sqr.metres/eV/sr
+    20.20000000000000       3.2481768424916561E-002*1e-20sqr.metres/eV/sr
+    22.20000000000000       3.3207862743912936E-002*1e-20sqr.metres/eV/sr
+    24.20000000000000       3.4263373599848164E-002*1e-20sqr.metres/eV/sr
+    26.20000000000000       3.5705354273153703E-002*1e-20sqr.metres/eV/sr
+    28.20000000000000       3.7597027469323460E-002*1e-20sqr.metres/eV/sr
+    30.20000000000000       3.9994014059666676E-002*1e-20sqr.metres/eV/sr
+    32.20000000000000       4.2902732491859850E-002*1e-20sqr.metres/eV/sr
+    34.20000000000000       4.6179049743754010E-002*1e-20sqr.metres/eV/sr
+    36.20000000000000       4.9337403545042326E-002*1e-20sqr.metres/eV/sr
+    38.20000000000000       5.1366182908066736E-002*1e-20sqr.metres/eV/sr
+    40.20000000000000       5.0990543575597416E-002*1e-20sqr.metres/eV/sr
+    42.20000000000000       4.7703676460025074E-002*1e-20sqr.metres/eV/sr
+    44.20000000000000       4.2414824071991944E-002*1e-20sqr.metres/eV/sr
+    46.20000000000000       3.6591704956531815E-002*1e-20sqr.metres/eV/sr
+    48.20000000000000       3.1219229408178922E-002*1e-20sqr.metres/eV/sr
+    50.20000000000000       2.6653835839971593E-002*1e-20sqr.metres/eV/sr
+    52.20000000000000       2.2902354699969769E-002*1e-20sqr.metres/eV/sr
+    54.20000000000000       1.9848356642432175E-002*1e-20sqr.metres/eV/sr
+    56.20000000000000       1.7356716559748971E-002*1e-20sqr.metres/eV/sr
+    58.20000000000000       1.5308863641622825E-002*1e-20sqr.metres/eV/sr
+    60.20000000000000       1.3609851200881467E-002*1e-20sqr.metres/eV/sr
+    62.20000000000000       1.2186184246292624E-002*1e-20sqr.metres/eV/sr
+    64.20000000000000       1.0981554216192674E-002*1e-20sqr.metres/eV/sr
+    66.20000000000000       9.9527930646778721E-003*1e-20sqr.metres/eV/sr
+    68.20000000000000       9.0666130655147580E-003*1e-20sqr.metres/eV/sr
+    70.20000000000000       8.2971324892396683E-003*1e-20sqr.metres/eV/sr
+    72.20000000000000       7.6240400385084737E-003*1e-20sqr.metres/eV/sr
+    74.20000000000000       7.0312447236584117E-003*1e-20sqr.metres/eV/sr
+    76.20000000000000       6.5058772606735949E-003*1e-20sqr.metres/eV/sr
+    78.20000000000000       6.0375535399216493E-003*1e-20sqr.metres/eV/sr
+    80.20000000000000       5.6178225246002788E-003*1e-20sqr.metres/eV/sr
+    82.20000000000000       5.2397512887970713E-003*1e-20sqr.metres/eV/sr
+    84.20000000000000       4.8976089630747618E-003*1e-20sqr.metres/eV/sr
+    86.20000000000000       4.5866258592475269E-003*1e-20sqr.metres/eV/sr
+    88.20000000000000       4.3028056253776375E-003*1e-20sqr.metres/eV/sr

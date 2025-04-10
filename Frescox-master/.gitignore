@@ -1,0 +1,10 @@
+*.o
+*.mod
+intel*
+i386
+gfortran*
+*.aux
+*.log
+*.synctex.gz
+fort.*
+frxy-svn-copy
